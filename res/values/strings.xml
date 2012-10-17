@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">rrodriguezapp1</string>
+    <string name="hello_world">Hola  Puta!</string>
+    <string name="menu_settings">Zorrisima</string>
+    <string name="menu_settings2">Mu Zorra</string>
+    <string name="itemmenu2">PAKOSDASK ra</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
