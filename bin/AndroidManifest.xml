@@ -20,6 +20,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Respuesta1"
+            android:label="@string/title_activity_respuesta1" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="dam2.trbl.rrodriguezapp1.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

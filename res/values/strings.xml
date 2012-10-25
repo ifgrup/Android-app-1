@@ -6,5 +6,9 @@
     <string name="menu_settings2">Trbl DAM2</string>
     <string name="itemmenu2">IfGrup Game</string>
     <string name="title_activity_main">Fishtros Defense</string>
+    <string name="title_activity_respuesta1">Respuesta1</string>
+    <string name="texto2">Introduce mensaje</string>
+    <string name="btn1texto">Presionar</string>
+    <string name="pako">SUCIA mu sucia</string>
 
 </resources>
