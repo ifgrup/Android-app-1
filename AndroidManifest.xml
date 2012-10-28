@@ -4,7 +4,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="8"
+        android:minSdkVersion="14"
         android:targetSdkVersion="15" />
 
     <application
@@ -26,6 +26,20 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="dam2.trbl.rrodriguezapp1.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ItemListActivity"
+            android:label="@string/title_item_list" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="dam2.trbl.rrodriguezapp1.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ItemDetailActivity"
+            android:label="@string/title_item_detail" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ItemListActivity" />
         </activity>
     </application>
 

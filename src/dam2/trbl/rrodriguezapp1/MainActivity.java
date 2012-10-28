@@ -25,8 +25,10 @@ public class MainActivity extends Activity {
     }
     
     public void configMain(View view) {
-       
-    	Intent intent = new Intent(this, Respuesta1.class);
+      
+    	
+    	//Intent intent = new Intent(this, Respuesta1.class);
+    	Intent intent = new Intent(this, ItemListActivity.class);
         EditText editText = (EditText) findViewById(R.id.textointroducido);
         String message = editText.getText().toString();
         intent.putExtra(EXTRA_MESSAGE, message);

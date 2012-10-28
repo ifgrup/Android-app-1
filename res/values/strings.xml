@@ -10,5 +10,7 @@
     <string name="texto2">Introduce mensaje</string>
     <string name="btn1texto">Presionar</string>
     <string name="pako">SUCIA mu sucia</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_item_list">Items</string>
 
 </resources>
